@@ -1,0 +1,10 @@
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\bin\Release\WindowsPainter.exe.config
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\bin\Release\WindowsPainter.exe
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\bin\Release\WindowsPainter.pdb
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.csprojAssemblyReference.cache
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.Form1.resources
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.Properties.Resources.resources
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.csproj.GenerateResource.cache
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.csproj.CoreCompileInputs.cache
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.exe
+C:\Users\SOOAHPAZCS\Documents\pro\WindowsPainter\WindowsPainter\obj\Release\WindowsPainter.pdb
